@@ -1,0 +1,10 @@
+{	
+	"coinList":
+	[{
+		"num":"5",
+		"beginX":"-1",
+		"beginY":"5",
+		"beginZ":"40",
+		"interval":"10"
+	}]
+}
